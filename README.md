@@ -101,12 +101,6 @@ avatar-generator/
 
 ---
 
-## License
-
-MIT
-
----
-
 ## Acknowledgements
 
 - [React](https://react.dev/)
@@ -115,8 +109,4 @@ MIT
 - [Three.js](https://threejs.org/)
 - [TensorFlow](https://www.tensorflow.org/)
 - [Flask](https://flask.palletsprojects.com/)
-
----
-
-Let me know if you want to add more sections or need help with image hosting for GitHub!
 
